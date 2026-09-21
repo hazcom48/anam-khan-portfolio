@@ -1,0 +1,534 @@
+[
+  {
+    "kind": "digital",
+    "title": "Trade agreements come with rules: Here’s what Canada can and cannot do",
+    "description": "A breakdown of what trade rules allow Canada to do, and what they restrict.",
+    "image": "webphotos/trade-agreements-rules.avif",
+    "url": "https://www.bnnbloomberg.ca/business/politics/2026/02/09/trade-agreements-come-with-rules-heres-what-canada-can-and-cannot-do/"
+  },
+  {
+    "kind": "digital",
+    "title": "This Gen Z pair built a $35M startup in Canada, only to move to U.S.",
+    "description": "Entrepreneurs say scaling pressures pushed their business south of the border.",
+    "image": "webphotos/genz-startup-move-us.avif",
+    "url": "https://www.ctvnews.ca/business/article/this-gen-z-pair-built-a-35m-startup-in-canada-only-to-move-to-us/"
+  },
+  {
+    "kind": "digital",
+    "title": "Silver prices surge, but why is Canada keeping it off its critical mineral list?",
+    "description": "Silver is rallying, but the policy debate over its “critical” status is still unresolved.",
+    "image": "webphotos/silver-critical-minerals.avif",
+    "url": "https://www.bnnbloomberg.ca/investing/commodities/2026/01/14/silver-prices-surge-but-why-is-canada-keeping-it-off-its-critical-mineral-list/"
+  },
+  {
+    "kind": "digital",
+    "title": "Gold is surging as Canada, a leading producer, has none. Is it time to buy?",
+    "description": "Gold is at record highs while Canada holds no gold reserves. Here’s what that means for investors.",
+    "image": "webphotos/gold-surging-canada-reserves.avif",
+    "url": "https://vancouverisland.ctvnews.ca/business/article/gold-is-surging-as-canada-a-leading-producer-has-none-is-it-time-to-buy/"
+  },
+  {
+    "kind": "digital",
+    "title": "Move over gold, Canada’s copper is having a moment",
+    "description": "Canada’s copper story is getting louder as demand climbs and new projects move forward.",
+    "image": "webphotos/copper-having-a-moment.avif",
+    "url": "https://www.bnnbloomberg.ca/business/2025/11/08/move-over-gold-canadas-copper-is-having-a-moment/"
+  },
+  {
+    "kind": "digital",
+    "title": "Global uranium tightness is squeezing Canada. Can it deliver fast enough?",
+    "description": "A supply squeeze is boosting demand for Canadian uranium, but timelines and capacity are the question.",
+    "image": "webphotos/uranium-tightness-canada.avif",
+    "url": "https://www.bnnbloomberg.ca/investing/commodities/2025/11/20/global-uranium-tightness-is-squeezing-canada-can-it-deliver-fast-enough/"
+  },
+  {
+    "kind": "digital",
+    "title": "The EV slowdown: Are Canadians losing interest?",
+    "description": "EV momentum is cooling, raising questions about affordability, policy, and consumer demand.",
+    "image": "webphotos/ev-slowdown-canada.avif",
+    "url": "https://www.bnnbloomberg.ca/business/2025/11/05/the-ev-slowdown-are-canadians-losing-interest/"
+  },
+  {
+    "kind": "digital",
+    "title": "More mines, more ounces: A decade of gold gains turned Canada into a mining powerhouse",
+    "description": "Higher prices helped drive new mines, expansions, and a bigger role for Canada in global gold output.",
+    "image": "webphotos/more-mines-more-ounces.avif",
+    "url": "https://www.bnnbloomberg.ca/business/2025/10/22/more-mines-more-ounces-a-decade-of-gold-gains-turned-canada-into-a-mining-powerhouse/"
+  },
+  {
+    "kind": "digital",
+    "title": "Someone stole $222K worth of beef from a truck in Windsor. But where did it go?",
+    "description": "Police investigate after a trailer loaded with beef goes missing in Windsor.",
+    "image": "webphotos/windsor-meat-heist.avif",
+    "url": "https://www.cbc.ca/news/canada/windsor/windsor-meat-heist-theft-beef-roast-truck-1.7617332"
+  },
+  {
+    "kind": "digital",
+    "title": "Students, ex-president raise concerns about racism at NSCAD",
+    "description": "Current president says school is expanding supports for BIPOC students",
+    "image": "webphotos/nscad.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/nscad-racism-allegations-students-staff-1.6807956"
+  },
+  {
+    "kind": "digital",
+    "title": "Anonymous donor offers $10M to save N.S. church facing demolition. But there's a condition",
+    "description": "Local group spent nearly a decade trying to save Église Sainte-Marie in Digby County",
+    "image": "webphotos/nschurch.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/anonymous-donor-nova-scotia-church-10-million-1.6805765"
+  },
+  {
+    "kind": "digital",
+    "title": "Ontario had 30 femicides in 30 weeks, new report says as 'same gaps' in support persist",
+    "description": "'Every single week, we can expect another woman to be killed by a man closely known to her': advocate",
+    "image": "webphotos/femicide.avif",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-femicides-1.6899109"
+  },
+  {
+    "kind": "digital",
+    "title": "Nova Scotians aren't getting the help they need to remove online intimate images, expert says",
+    "description": "Police in N.S. say reports of intimate images online posted without consent are increasing",
+    "image": "webphotos/cybersecurity.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/intimate-images-increasing-not-getting-help-1.6777240"
+  },
+  {
+    "kind": "digital",
+    "title": "Students fuel drive to bring French school to Acadian community in Guysborough County",
+    "description": "A new generation of Acadians in Guysborough County wants to connect to its French roots and is fighting to make it happen.",
+    "image": "webphotos/acadianschool.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/french-school-guysborough-county-nova-scotia-1.6768584"
+  },
+  {
+    "kind": "digital",
+    "title": "After being bullied at school, N.S. boy receives birthday cards from around the world",
+    "description": "‘I've never seen this kid happier,’ mom says",
+    "image": "webphotos/joeyconnolly.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/bullied-boy-autism-nova-scotia-birthday-cards-1.6798645"
+  },
+  {
+    "kind": "digital",
+    "title": "''She was a fighter': N.S. author remembered for strength in the face of ALS",
+    "description": "Angela Parker-Brown, 50, died Friday with her family by her side",
+    "image": "webphotos/angelaparkerbrown.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/fighter-als-angela-parker-dies-1.6753844"
+  },
+  {
+    "kind": "digital",
+    "title": "Ukrainian refugee ready to represent Nova Scotia in Canada Games, but there's one problem",
+    "description": "Sasha Kaplin doesn't have permanent residency, a requirement to compete",
+    "image": "webphotos/sashakaplin.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/ukrainianrefugee-novascotia-judo-sashakaplin-1.6741151"
+  },
+  {
+    "kind": "digital",
+    "title": "Why there is no fencing, safety equipment or lifeguards at Peggys Cove",
+    "description": "Over several decades, Nova Scotia landmark has been the site of multiple drownings",
+    "image": "webphotos/peggys-cove.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/peggyscove-safetyequipment-fencing-lifeguards-1.6456001"
+  },
+  {
+    "kind": "digital",
+    "title": "Newborns being directed to mobile clinics amid doctor shortage",
+    "description": "Unattached newborn clinics have own staff and work within mobile health clinic",
+    "image": "webphotos/baby-at-mobile-clinic.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/mobile-clinics-newborns-triple-1.6714718"
+  },
+  {
+    "kind": "digital",
+    "title": "Nova Scotians grieve dead, stranded loved ones in Syria and Turkey",
+    "description": "Local Turkish and Syrian organizations call for donations to help earthquake victims",
+    "image": "webphotos/adanaturkey.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotians-grieve-earthquakes-syria-turkey-1.6748221"
+  },
+  {
+    "kind": "digital",
+    "title": "'I just need a chance to live again': Jamaican migrant worker with cancer begs to stay in N.S.",
+    "description": "A seasonal farm worker from Jamaica is fighting to stay in Nova Scotia for cancer treatment, saying it would be a death sentence for her to go home..",
+    "image": "webphotos/migrantworker.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/jamaican-temporaryforeignworker-cancer-novascotia-1.6637102"
+  },
+  {
+    "kind": "digital",
+    "title": "Canadian Blood Services needs Black Canadians to donate, but expert says barriers persist",
+    "description": "Canadian Blood Services is urging Black Canadians to help diversify its blood donor and stem cell registry base.",
+    "image": "webphotos/cbsdonations.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/canadian-blood-services-needs-black-canadians-to-donate-but-faces-broken-trust-with-community-says-expert-1.6680243"
+  },
+  {
+    "kind": "digital",
+    "title": "How Viola Desmond's salon space has been reimagined through art",
+    "description": "Those walking along Gottingen Street in Halifax can now step into an art space created to honour civil rights activist Viola Desmond.",
+    "image": "webphotos/violadesmondsalon.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-artist-creates-interactive-simulation-of-viola-desmond-s-salon-1.6665649"
+  },
+  {
+    "kind": "digital",
+    "title": "Turning disaster into art, wood carver makes sculptures from trees downed by Fiona",
+    "description": "Jay MacKay has been creating sculptures out of trees that held sentimental value",
+    "image": "webphotos/disastertoart.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/diaster-art-fiona-sculptures-artist-1.6692259"
+  },
+  {
+    "kind": "digital",
+    "title": "High levels of stress, anxiety among seniors stripped of services in Bridgewater apartments",
+    "description": "Community group asks director of residential tenancies to intervene on behalf of residents",
+    "image": "webphotos/highlevelofstress.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/stress-anxiety-seniors-bridgewater-drumlinhills-1.6645775"
+  },
+  {
+    "kind": "digital",
+    "title": "Dozens of birds hurt by Fiona take refuge in Hope for Wildlife",
+    "description": "Storm also brought tropical birds from Bermuda that didn’t survive",
+    "image": "webphotos/birdshurtbyfiona.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/birds-fiona-refuge-bermuda-hopeforwildlife-1.6600509"
+  },
+  {
+    "kind": "digital",
+    "title": "Crews going full tilt in Halifax area to clean up after Fiona",
+    "description": "Dozens of streets still blocked off by downed trees.",
+    "image": "webphotos/nspowercrews.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/crews-full-tilt-hrm-clean-up-after-fiona-1.6598364"
+  },
+  {
+    "kind": "digital",
+    "title": "N.S. man teams up with Terry Fox's brother to bring Canadian icon's run to Ireland",
+    "description": "This year's Terry Fox run in Dublin raised $27K Cdn for the Irish Cancer Society",
+    "image": "webphotos/nsmanteams.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-man-terry-fox-darrell-fox-cancer-ireland-1.6587648"
+  },
+  {
+    "kind": "digital",
+    "title": "Ukrainian medical workers frustrated by 'silence' on Nova Scotia licences",
+    "description": "Ukrainian refugees say navigating the health-care system is challenging and discouraging.",
+    "image": "webphotos/ukranianmedicalworkers.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/ukrainian-medical-workers-jobcalls-1.6539617"
+  },
+  {
+    "kind": "digital",
+    "title": "Bhangra dancer Gurdeep Pandher spreads joy in Nova Scotia",
+    "description": "Pandher has danced in Halifax, Inverness, Mabou and Peggys Cove",
+    "image": "webphotos/gurdeep-pandher.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/gurdeep-pandher-bhangra-novascotia-joytour-1.6524842"
+  },
+  {
+    "kind": "digital",
+    "title": "Group scrambles to bring 30-tonne dead humpback whale to Halifax shore",
+    "description": "Recovery efforts are being hampered by whale's size and structure of Halifax harbour.",
+    "image": "webphotos/dead-whale.avif",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/marineanimalresponsesociety-whale-dead-1.6515960"
+  },
+  {
+    "kind": "digital",
+    "title": "How the village of Eden Mills is approaching complete carbon neutrality",
+    "description": "With a passion for the environment and the community, Eden Mills has reached 75 per cent carbon neutrality",
+    "image": "webphotos/edenmills.jpg",
+    "url": "https://www.guelphtoday.com/local-news/how-the-small-village-of-eden-mills-is-approaching-complete-carbon-neutrality-1650775"
+  },
+  {
+    "kind": "digital",
+    "title": "A double-double and a morning smile: local Tim Hortons server a social media hit for his fun service",
+    "description": "People have been taking to social media to sing praises of Damien Smith",
+    "image": "webphotos/timhortons.jpg",
+    "url": "https://www.guelphtoday.com/local-news/a-double-double-and-a-morning-smile-local-tim-hortons-server-a-social-media-hit-for-his-fun-service-1580634"
+  },
+  {
+    "kind": "digital",
+    "title": "Guelph scientist leads climate research in The Great White North",
+    "description": "Pierre Fogal leads a team of researchers monitoring the weather and climate change in the Arctic",
+    "image": "webphotos/guelphscientist.jpeg",
+    "url": "https://www.guelphtoday.com/grounded/guelph-scientist-leads-climate-research-in-the-great-white-north-16-photos-3434510"
+  },
+  {
+    "kind": "digital",
+    "title": "Guelph's Syrian Experience: Raising young children in a new land",
+    "description": "In the first of a five-part series, we look at the challenges and successes of the Syrian refugees who came to Guelph three years ago",
+    "image": "webphotos/syrianchildren.jpg",
+    "url": "https://www.guelphtoday.com/local-news/guelphs-syrian-experience-raising-young-children-in-a-new-land-1953856"
+  },
+  {
+    "kind": "digital",
+    "title": "'He was heaven sent:' Guelph stranger saves baby's life by donating own liver",
+    "description": "Baby Matthew and liver donor Derek Roy are both in good health after surgery",
+    "image": "webphotos/derekroy.jpg",
+    "url": "https://www.guelphtoday.com/local-news/he-was-heaven-sent-guelph-stranger-saves-babys-life-by-donating-own-liver-2883790"
+  },
+  {
+    "kind": "digital",
+    "title": "Veteran flies across Canada to return a war medal to a Guelph stranger",
+    "description": "Veteran Susan Giebel travelled from Alberta to Guelph to return a medal she found to a family she never met",
+    "image": "webphotos/veteran.jpeg",
+    "url": "https://www.guelphtoday.com/local-news/veteran-flies-across-canada-to-return-a-war-medal-to-a-guelph-stranger-8-photos-1740797"
+  },
+  {
+    "kind": "broadcast",
+    "title": "How many FIFA games will Toronto host?",
+    "description": "FIFA confirms number of matches for Toronto and Vancouver in 2026 World Cup.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/o00uDS4dp98"
+  },
+  {
+    "kind": "radio",
+    "title": "Canada sees a surge in whooping cough cases, raising public health concerns.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/whoopingcough.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Runaway Kangaroo spotted in Oshawa neighbourhood",
+    "description": "A kangaroo on the loose in Oshawa had residents doing double takes — and animal services scrambling to catch the runaway marsupial",
+    "image": null,
+    "url": "https://www.youtube.com/embed/rc9CkDg0J64"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Friends of missing Canadian-Palestinian journalist call for help in his search",
+    "description": "Zaheera Soomar speaks out about Mansour Shouman's disappearance in Gaza.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/EiVlRvXmcsk"
+  },
+  {
+    "kind": "radio",
+    "title": "Canada’s men’s 4x100m relay team, led by Andre De Grasse, clinched Olympic gold in Paris",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/canadawinsrelay.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Torontonians get creative and turn a city post into a Lego tower",
+    "description": "Little Italy residents spark joy with a Lego tower.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/6KQWCKmKycc"
+  },
+  {
+    "kind": "radio",
+    "title": "Hundreds of illegally dumped tires near Etobicoke’s Mimico Creek raise environmental concerns",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/tiredumping.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "'God help me, please': Woman speaks out after off-leash dogs attack her",
+    "description": "Toronto woman mauled by two unleashed dogs while waiting for a bus.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/FuTurDkG0Og"
+  },
+  {
+    "kind": "radio",
+    "title": "The TTC plans weekend service disruptions but will boost transit options for Taylor Swift’s Eras Tour.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/ttcandswift.mp3"
+  },
+  {
+    "kind": "radio",
+    "title": "Toronto schools implement a classroom cellphone ban, sparking debate among educators, parents, and students.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/cellphoneban.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Community grieves after fire guts century-old clubhouse on Toronto Islands",
+    "description": "An early morning fire destroyed a beloved island community center.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/Y28kmzE2il8"
+  },
+  {
+    "kind": "radio",
+    "title": "Former Raptors coach Nick Nurse returned to Toronto to support a week-long music program he launched for students after the team’s championship win.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/nurse.mp3"
+  },
+  {
+    "kind": "radio",
+    "title": "Former Raptor Pascal Siakam receives warm ovation in his return to Toronto.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/siakam.mp3"
+  },
+  {
+    "kind": "radio",
+    "title": "Young swimmers dive into the Toronto pool where Summer McIntosh once trained.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/mcintosh.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Vigil held for Adu Boakye — man shot dead in random attack in Toronto",
+    "description": "Friends and family remember a hardworking newcomer from Ghana.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/jsBrTbY_g2o"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Family of man shot by Toronto police fights for justice",
+    "description": "Family says Tylor Coore needed help, not force.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/m13_VVtfcnY"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Muslim food bank faces shortage of halal meals during Ramadan",
+    "description": "Food insecurity worsens for newcomers and low-income families.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/40a7Bs8yRZI"
+  },
+  {
+    "kind": "radio",
+    "title": "Mona Ayesh, a Toronto woman with family in Gaza, says the temporary ceasefire is a \"pause of killing\" rather than real relief.",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/ceasefire.mp3"
+  },
+  {
+    "kind": "radio",
+    "title": "Ugandan opposition leader Bobi Wine visits Toronto refugees with a message of hope",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/rally.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Toronto’s pigeons are on birth control",
+    "description": "The city uses rooftop feeders with birth control to manage pigeon population humanely.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/Vubbhy14gJg"
+  },
+  {
+    "kind": "radio",
+    "title": "The Blue Jays and Texas Rangers battle for AL Wild Card spot",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/jayswildcard.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Santa’s helpers in Toronto sort toys for children in need",
+    "description": "Volunteers spread holiday cheer with Share A Christmas drive.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/l825l-m6xIY"
+  },
+  {
+    "kind": "radio",
+    "title": "Premier Doug Ford reverses controversial Greenbelt decision",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/greenbelt.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Woman dead, 2 injured after driver intentionally struck them in Toronto",
+    "description": "Police investigate targeted vehicular attack on pedestrians.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/V0W7J3n1exE"
+  },
+  {
+    "kind": "radio",
+    "title": "Toronto’s Caribbean Carnival: Kane Grant unveils 'Unapologetic' costume for King and Queen competition",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/kingandqueen.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Rally in Mississauga demands action after Gaza blackout",
+    "description": "Protesters call for global intervention after Gaza communication collapse.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/Kd3S4oYBhpg"
+  },
+  {
+    "kind": "radio",
+    "title": "PWHL game sells out Scotiabank Arena — a first for women’s hockey",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/pwhl.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Nearly 100 asylum seekers forced to leave Toronto church shelter",
+    "description": "Capacity issues strain emergency housing options.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/aG6Vxa7TxSY"
+  },
+  {
+    "kind": "radio",
+    "title": "Louis March remembered as tireless advocate against gun violence",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/louismarch.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Ontario reverses decision on controversial Greenbelt land swap",
+    "description": "Ford government backtracks after major public backlash.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/eTl650ZR5XY"
+  },
+  {
+    "kind": "radio",
+    "title": "Toronto Island residents rally to save arborist's business",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/tyler.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Seniors in Bridgewater apartment building fear displacement",
+    "description": "Residents feel forced out amid redevelopment pressures.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/OAiMVWKPpGQ"
+  },
+  {
+    "kind": "radio",
+    "title": "Breathing difficulties spike in Toronto amid air quality warnings",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/airquality.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Milos Raonic secures spot in National Bank Open second round",
+    "description": "Canadian tennis star returns strong after injury setbacks.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/QCatbtKej80"
+  },
+  {
+    "kind": "radio",
+    "title": "Toronto calls for residents to open rental units to asylum seekers",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/asylumseekers.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Man dead after violent altercation in North York",
+    "description": "Police investigate deadly confrontation outside parking lot.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/f9h1ihwxAVM"
+  },
+  {
+    "kind": "radio",
+    "title": "Barrie residents still feel impact 2 years after tornado",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/barrie.mp3"
+  },
+  {
+    "kind": "broadcast",
+    "title": "Toronto's streetscape gets an artistic refresh",
+    "description": "Local artists add color and creativity to overlooked corners of the city.",
+    "image": null,
+    "url": "https://www.youtube.com/embed/JsM6NzFlEXE"
+  },
+  {
+    "kind": "radio",
+    "title": "East York fastpitch league honors longtime announcer Peter Cripps",
+    "description": "",
+    "image": null,
+    "url": "https://anamaylakhan.com/radio/baseball.mp3"
+  }
+]

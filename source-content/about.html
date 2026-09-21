@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About | Anam Khan</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Playfair Display', serif;
+      background-color: #fdfdfd;
+    }
+
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: white;
+      padding: 12px 24px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      z-index: 1000;
+      display: flex;
+      gap: 24px;
+      font-size: 15px;
+    }
+
+    nav a {
+      color: #111;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .about-container {
+      display: flex;
+      height: 100vh;
+      margin-top: 60px;
+    }
+
+    .about-photo {
+      flex: 1;
+      background: url('anam-headshot.jpg') center center / cover no-repeat;
+    }
+
+   .about-text {
+      flex: 1;
+      padding: 60px 40px;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #333;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      background-color: #fff;
+    }
+
+    .about-text blockquote p {
+      margin-bottom: 12px;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/index.html">Home</a>
+  <a href="/work.html">Work</a>
+  <a href="/about.html">About</a>
+  <a href="/contact.html">Contact</a>
+</nav>
+
+  <div class="about-container">
+    <div class="about-photo"></div>
+    <div class="about-text">
+      <blockquote>
+        <p>I spent my early childhood in Saudi Arabia, and grew up in Canada.  
+        We moved often. City to city, country to country in search of a better life and a solid education.</p>
+
+        <p>Those early years shaped me. Being uprooted again and again taught me to see the world through many lenses. It sparked a deep curiosity about people, culture, and the quiet stories that often go untold. That’s where my love for storytelling began. It was long before I ever picked up a pen, a mic, or stepped into a newsroom.</p>
+
+        <p>I went on to complete a Bachelor of Arts at the University of Toronto and a postgraduate journalism certificate from Humber College. Storytelling has always been how I made sense of the world.  
+        In Guelph, I spent several years as a local reporter, writing over a thousand stories that taught me what makes a community thrive, and the emotions that hold it together. One that stayed with me was about a stranger who donated part of his liver to a baby after reading an article I wrote. He saved the child's life.</p>
+
+        <p>When I moved to Halifax, Nova Scotia, I began working in broadcast, telling stories for CBC on television and radio, from breaking news to long-form features. I later returned to Toronto, where I embraced the fast pace of the newsroom, chasing tight deadlines and quick turnarounds.</p>
+
+        <p>Each move across Canada has deepened my understanding of the diverse cultures that make our country so unique.</p>
+
+        <p>Some of the most powerful stories I’ve found have come from the most ordinary places.</p>
+      </blockquote>
+    </div>
+  </div>
+
+  <!-- Demo Reels section: note the added "section" class -->
+  <section class="section demo-reels">
+    <h2>Demo Reels</h2>
+    <div class="reel-grid">
+      <div class="reel">
+        <iframe
+          src="https://www.youtube.com/embed/zczjkdlxBaU"
+          title="Demo Reel 1"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div class="reel">
+        <iframe
+          src="https://www.youtube.com/embed/lULkaWmELmQ"
+          title="Demo Reel 2"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </section>
+  
+</body>
+</html>

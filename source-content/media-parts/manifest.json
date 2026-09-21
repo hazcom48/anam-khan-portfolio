@@ -1,0 +1,21 @@
+{
+  "dist/assets/radio/kingandqueen.mp3": [
+    "source-content/media-parts/kingandqueen.00.part",
+    "source-content/media-parts/kingandqueen.01.part",
+    "source-content/media-parts/kingandqueen.02.part",
+    "source-content/media-parts/kingandqueen.03.part",
+    "source-content/media-parts/kingandqueen.04.part",
+    "source-content/media-parts/kingandqueen.05.part",
+    "source-content/media-parts/kingandqueen.06.part"
+  ],
+  "dist/assets/radio/rally.mp3": [
+    "source-content/media-parts/rally.00.part",
+    "source-content/media-parts/rally.01.part",
+    "source-content/media-parts/rally.02.part",
+    "source-content/media-parts/rally.03.part",
+    "source-content/media-parts/rally.04.part",
+    "source-content/media-parts/rally.05.part",
+    "source-content/media-parts/rally.06.part",
+    "source-content/media-parts/rally.07.part"
+  ]
+}

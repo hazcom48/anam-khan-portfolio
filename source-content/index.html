@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anam Khan</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .video-background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      width: 100vw;
+      z-index: -1;
+      overflow: hidden;
+    }
+
+    .video-background iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      object-fit: cover;
+      pointer-events: none;
+    }
+
+    .overlay-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: white;
+      z-index: 2;
+    }
+
+    .overlay-text h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    .overlay-text p {
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+    }
+
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: rgba(0,0,0,0.4);
+      padding: 12px 24px;
+      display: flex;
+      gap: 24px;
+      z-index: 3;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/index.html">Home</a>
+  <a href="/work.html">Work</a>
+  <a href="/about.html">About</a>
+  <a href="/contact.html">Contact</a>
+</nav>
+
+  <div class="video-background">
+    <iframe 
+      src="https://www.youtube.com/embed/lULkaWmELmQ?autoplay=1&mute=1&controls=0&loop=1&playlist=lULkaWmELmQ&modestbranding=1&showinfo=0"
+      allow="autoplay"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="overlay-text">
+    <h1>Anam Khan</h1>
+    <p>Broadcast + Digital Reporter</p>

@@ -47,3 +47,5 @@ The latest direction is inspired by Suleika Jaouad’s site: blush-pink navigati
 ## Deployment
 
 Publish the `dist` folder using a static host such as Netlify or Cloudflare Pages. Optional build command: `python3 build.py`. Validate with `python3 verify.py`. The Sites hosting configuration is retained for reference; Sites publication has not succeeded. This repository alone does not activate website hosting or DNS.
+
+Two audio assets are stored losslessly in small chunks under `source-content/media-parts` to accommodate upload issues. Run `python3 build.py` before deployment to restore both MP3 files into `dist`.
