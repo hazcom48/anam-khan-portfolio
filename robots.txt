@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anam.josta.club/sitemap.xml
